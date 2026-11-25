@@ -92,11 +92,11 @@ understanding identifier management in compiler design.
 
 ## Developer
 
-**Manash Bhattacharjee**
+**Arpan Ghosh**
 
-B.Sc. in Advanced Networking & Cyber Security
+B.Tech in Computer Science & Engineering
 
-Department of Cyber Science & Technology
+Department of Computer Science & Engineering
 
 Brainware University
 
